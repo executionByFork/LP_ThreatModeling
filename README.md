@@ -47,7 +47,7 @@
 	* Identify External Dependencies
 	    - external entities that would keep the application from functioning properly if removed
 4. __Identify Threats and Analyize Risk__ 
-	1. Create a Threat Traceability Matrix
+	1. Create a Threat Traceability Matrix ([Example TTM](./Templates/Threat_Traceability_Matrix.csv))
 	    - The simplest way to create this is to use Excel and save the matrix as a CSV file, then throw the CSV into a [markdown table generator](https://donatstudios.com/CsvToMarkdownTable)
 	    - Look at each asset individually while considering which categories of [STRIDE](https://en.wikipedia.org/wiki/STRIDE_(security)) may apply
     		* __S__poofing
