@@ -33,10 +33,10 @@
 	* Define Compliance Requirements
 2. __Decompose the Application__
 	* Draw/Update Control Flow Diagrams using the [Diagram Syntax](./Templates/Threat_Modeling_Syntax.md)
-		- Application Threat Model Diagram ([Example ATMD](./Templates/Example_Application_Diagram.jpg))
+		- Application Threat Model Diagram ([Example ATMD 1](https://raw.githubusercontent.com/executionByFork/LP_ThreatModeling/master/Templates/Example_Application_Diagram.jpg)) ([Example ATMD 2](https://raw.githubusercontent.com/executionByFork/LP_ThreatModeling/master/Templates/Example_Application_Diagram2.png))
 		    * Diagram of how the app works in production
 		    * Use case diagram / data flow diagram
-		- Infrastructure Threat Model Diagram ([Example ITMD](./Templates/Example_Infrastructure_Diagram.jpg))
+		- Infrastructure Threat Model Diagram ([Example ITMD 1](https://raw.githubusercontent.com/executionByFork/LP_ThreatModeling/master/Templates/Example_Infrastructure_Diagram.jpg)) ([Example ITMD 2](https://raw.githubusercontent.com/executionByFork/LP_ThreatModeling/master/Templates/Example_Infrastructure_Diagram2.png))
 		    * Diagram of the system infrastructure and how the app is deployed
 	* List user roles and their permissions
 	    - This is a list of what actions each role *should* be able to do
