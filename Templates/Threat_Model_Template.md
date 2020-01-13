@@ -2,7 +2,7 @@
 **Application:** [App name here]
 
 **Version:** [App version here]  
-**Commit SHA:** [[Commit hash link here]]()
+**Commit SHA:** [Commit hash link here]
 
 1. __Define the Scope and Application Objectives__
 	* Define the Scope of the Threat Model
@@ -16,8 +16,8 @@
 	* Define Compliance Requirements
 	    - [Compliance Requirements here]
 2. __Decompose the Application__
-	* [[Link to Application Threat Model Diagram]]()
-    * [[Link to Infrastructure Threat Model Diagram]]()
+	* [Link to Application Threat Model Diagram]
+    * [Link to Infrastructure Threat Model Diagram]
 	* Identify roles and permissions
 	    - [List roles and permissions here]
 3. __Identify Assets__
