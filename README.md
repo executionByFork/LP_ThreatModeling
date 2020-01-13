@@ -82,7 +82,7 @@
                 * __Major__: major loss of sensitive data or an interuption of critical services, business will experience financial loss
                 * __Severe__: complete destruction or theft of data and rendering a service unrecoverable. Extreme impact to the business and it's survivability
 	   - Security Tier 3 applications
-	        - Rank threats using the [CVSS](https://www.first.org/cvss/cvss-v30-user_guide_v1.5.pdf)
+	        - Rank threats using the [CVSS](https://www.first.org/cvss/)
 	        - [Online CVSS Calculator](https://nvd.nist.gov/vuln-metrics/cvss/v3-calculator)
 
 ## **Assessing the Threat Model**
